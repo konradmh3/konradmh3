@@ -15,6 +15,7 @@ of UIs.
 
 - "Stick" :: One player, level based game with inspirations from Mario and a flash game called N.
 - "Finite" :: An ironically infinite level based game, survive as long as possible.
+- "First Youtube Video" :: Going to start trying to narrate my process in developing games.
 
 ## Current Classes
 
