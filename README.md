@@ -32,6 +32,17 @@ introduced me to not only creating an environment completely out of my own imagi
 - Unity
 - Builder
 
+## Known Languages
+
+- Java
+- Javascript
+- HTML
+- C
+- C++
+- C#
+- Python
+- Assembly Language
+
 <!---
 konradmh3/konradmh3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
