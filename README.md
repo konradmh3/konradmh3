@@ -8,6 +8,7 @@
 
 - "Stick" :: One player, level based game with inspirations from Mario and a flash game called N.
 - "Finite" :: An ironically infinite level based game, survive as long as possible.
+- Web Page Controlled Car :: Rasberry Pi integrated that hosts server and webpage for car controll.
 
 ## Current Classes
 
