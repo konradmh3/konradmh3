@@ -10,6 +10,7 @@
 - "FooDood" :: Food app based on tinders swiping yes or no feature!
 - "KeyLogger :: Frontend Backend project.
 - "Web Page Controlled Car" :: Rasberry Pi integrated that hosts server and webpage for car controll. (mechPorjects)
+- "HomeSystem" :: Jarvis like home system for controlling my lights and spotify music with voice commands.
 
 ## Current Classes
 
