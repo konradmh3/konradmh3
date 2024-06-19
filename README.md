@@ -1,29 +1,24 @@
-# Konrad Hernandez
+<h1 align="center">Hi 👋 I'm Konrad Hernandez</h1>
 
-## About Me
+# 💫 About Me:
+<br>A Front-End Developer driven by a passion for innovative technology and software development. Eager to leverage skills in web and mobile development, to contribute effectively in a dynamic and collaborative environment.
 
-&nbsp;&nbsp;&nbsp;&nbsp;My name is Konrad Hernandez and I am currently a computer science major, math minor, graduate of California State University of Long Beach. The intricacies of game and web development began to lure my eye and after starting to develop my first game through Unity, the passion began. This new passion introduced me to not only creating an environment completely out of my own imagination using code, but also by showing me animation, level design, and working with different types of UIs. I worked as a web developer for Associated Students Inc., where I managed four websites including ASIRecreation, ASICorporate, 22WEST and the StudentGovernment site. Through managing these sites I have not only gained experience in web development, but also in working with a team and becoming acustom to a professional work environment and further deveolp my skills. 
+## 🚀 What I'm Up To:
+- Always **learning** Always **coding**
+- Currently delving into **NEXTjs** Framework and **TailwindCSS**.
+- Mastering the Frontend stack to develop Web and Mobile front-end products.
 
-## Current Projects
+# 💻 Tech Stack:
 
-- "Stick" :: One player, level based game with inspirations from Mario and a flash game called N.
-- "FooDood" :: Food app based on tinders swiping yes or no feature!
-- "KeyLogger :: Frontend Backend project.
-- "Web Page Controlled Car" :: Rasberry Pi integrated that hosts server and webpage for car controll. (mechPorjects)
-- "HomeSystem" :: Jarvis like home system for controlling my lights and spotify music with voice commands.
+| **Category**            | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**           | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white) |
+| **Data Visualization**  | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)                                                                                                                                                                                                              |
+| **Databases**           | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8F62FF?style=flat&logo=amazon-redshift&logoColor=white) |
+| **Developer Tools**     | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)                    |
+| **Cloud**               | ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)                                                                                                                                                                                          |
+| **Workflow**            | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)                                                                                                                                                                                                                                                                                                                          |
+| **Libraries/Frameworks**| ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
 
-## Languages
-
-- Java
-- Javascript
-- HTML
-- CSS
-- C
-- C++
-- C#
-- Python
-
-<!---
-konradmh3/konradmh3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/pjvillasista/](https://www.linkedin.com/in/konrad-hernandez/)) 
