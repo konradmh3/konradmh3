@@ -5,7 +5,7 @@
 
 ## 🚀 What I'm Up To:
 - Always **learning** Always **coding**
-- Currently delving into **NEXTjs** Framework and **TailwindCSS**.
+- Currently delving into **NEXTjs** Framework and **TailwindCSS** to deploy an AI Home Assistant using **OpenAI's API**.
 - Mastering the Frontend stack to develop Web and Mobile front-end products.
 
 # 💻 Tech Stack:
